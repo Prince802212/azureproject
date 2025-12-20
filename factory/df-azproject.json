@@ -1,0 +1,9 @@
+{
+	"name": "df-azproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a48613af-2489-4043-858c-1ff29d61b76a",
+		"tenantId": "dbda1196-59d8-44f3-b9da-184fffac2d2f"
+	}
+}
